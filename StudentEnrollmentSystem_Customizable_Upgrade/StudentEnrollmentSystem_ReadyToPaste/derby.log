@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 14 14:49:16 CST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-01a1-392c-2497-00000e98f1b8 
+on database directory C:\Users\iah\Desktop\SCHOOL\COMPROG 4\StudentEnrollmentSystem_UserFriendly_Menu_Forms\StudentEnrollmentSystem_Customizable_Upgrade\StudentEnrollmentSystem_ReadyToPaste\student-enrollment-db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e 
+Loaded from file:/C:/Users/iah/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.10+8-LTS-217
+user.dir=C:\Users\iah\Desktop\SCHOOL\COMPROG 4\StudentEnrollmentSystem_UserFriendly_Menu_Forms\StudentEnrollmentSystem_Customizable_Upgrade\StudentEnrollmentSystem_ReadyToPaste
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
